@@ -1,0 +1,6 @@
+HEY READ THIS
+
+so this is a sourcemod so you'll have to download steam 
+and Source SDK Base 2013 Singleplayer and put the folder into the sourcemod folder in steam/common/sourcemod
+
+Wishing you luck for the installation.
